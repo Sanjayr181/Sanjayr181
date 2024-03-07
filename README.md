@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning new skills.
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning AI
 - 💬 Ask me about python,HTML,CSS
 - 😄 Pronouns: he/him
 -->
