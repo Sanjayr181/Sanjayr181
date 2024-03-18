@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning and developing new skills
-- 💬 Ask me about python,HTML,CSS.
+- 💬 Ask me about python,HTML,CSS.Flexbox.
 - 😄 Pronouns: he/him
 -->
